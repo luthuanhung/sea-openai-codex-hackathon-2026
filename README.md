@@ -1,4 +1,4 @@
-# AI Education LMS — KMS Hackathon
+# Sea x OpenAI Codex Hackathon
 
 A modern LMS demo focused on "Anti-Brainrot" (cognitive training) for two main roles: **Student** and **Teacher**. Built with Next.js (App Router), TypeScript, Tailwind CSS, and a modular monolith architecture (services/models/components).
 
